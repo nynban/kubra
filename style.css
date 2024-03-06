@@ -117,7 +117,7 @@
   
   .rowCell {
     vertical-align: super;
-    padding-left: 15px;
+    padding: 15px;
     color: #000000;
     border-bottom: 1px solid #BDC3C7; 
   }
